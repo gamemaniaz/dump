@@ -23,7 +23,7 @@ To calculate the DRI of the crop, we will be calculating according to the follow
 
     So CCCC will increase DRI by 50 points.
 
-4. Combination pairs of overlapping sequences will not be awarded double points i.e. AAACGT will not qualify for -10 (AAA) and +15 (ACGT
+4. Combination pairs of overlapping sequences will not be awarded double points i.e. AAACGT will not qualify for -10 (AAA) and +15 (ACGT)
 
     Take note, in this case, AAA will be first used to qualify for -10 and it cannnot be used in the computation of ACGT. Thus, the score for AAACGT will be -10 instead of a total of +5 (-10 + 15)
 
